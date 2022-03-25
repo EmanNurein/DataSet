@@ -1,0 +1,68 @@
+    {
+        "PharMed" :{
+
+        
+        "product1":
+        {
+        "title":"Medicine For Diabetes",
+        "image":"https://i.ibb.co/hXg0bkb/galves-removebg-preview.png",
+        "content":"Galvus Met 50mg/500mg Tablet is a combination of two medicines that control high blood sugar levels in people with type 2 diabetes mellitus",
+        "detial":"manufactured: Novartis Pharma AG, Basel, Switzerland"
+        },
+
+        "product2":
+        {
+            "title":"Medicine For Pressrures",
+            "image":"https://i.ibb.co/j8jZ4nz/amlodipine-5-removebg-preview.png",
+            "content":"Norvasc(Amlodipine) is a calcium channel blocker used to treat high blood pressure (hypertension)","detial":"Manufactured:VIATRIS"
+        },
+
+        "product3":
+        {
+            "title":"Medicine For Goiter",
+            "image":"https://i.ibb.co/5LcGszn/euthyrox-25-removebg-preview.png",
+            "content":"Euthyrox 25 Tablet is a medicine used to treat an underactive thyroid gland (hypothyroidism). It replaces the hormone which is not being produced by your thyroid gland in sufficient quantity.",
+            "detial":"Manufactured: Merck KGaA"
+        },
+
+        "product4":
+        {
+            "title":"Medicine For Asmath",
+            "image":"https://i.ibb.co/5LcGszn/euthyrox-25-removebg-preview.png",
+            "content":"Ventolin is a kind of inhaler that uses the active ingredient salbutamol, otherwise known as albuterol.They can help to prevent and treat feelings like shortness of breath and symptoms such as wheezing or choking.",
+            "detial":"manufactured: GlaxoSmithKline, the manufacturer of Ventolin HFA"
+        },
+
+        "product5":
+        {
+            "title":"Medicine For Skins",
+            "image":"https://i.ibb.co/KL8sSHg/flucort-removebg-preview.png",
+            "content":"Flucort Skin Cream belongs to a group of medicine called steroids. It is used in the treatment of skin conditions associated with inflammation and itching.",
+            "detial":"manufactured: GlaxoSmithKline, the manufacturer of Ventolin HFA"
+        },
+
+        "product6":
+        {
+            "title":"Medicine For Eyes",
+            "image":"https://i.ibb.co/pnyjrVh/E-ye-drop-removebg-preview.png",
+            "content":"Flucort Skin Cream belongs to a group of medicine called steroids. It is used in the treatment of skin conditions associated with inflammation and itching.",
+            "detial":"Manufactured: Innovative Vision Products (IVP), Inc"
+        },
+
+        "product7":
+        {
+            "title":"Medicine for Gastro",
+            "image":"https://i.ibb.co/KGWWgsW/nexium-removebg-preview.png",
+            "content":"Nexium Control 20 mg gastro-resistant tablets treats to reflux symptoms (heartburn, acid regurgitation) in adults, aged 18 years or over.",
+            "detial":"Manufactured: GSK Consumer Healthcare (UK) Trading Ltd., Brentford, TW8 9GS"
+        },
+
+        "product8":
+        {
+            "title":"Devices",
+            "image":"https://i.ibb.co/ZH5RVR2/caresens-device-removebg-preview.png",
+            "content":"The CareSens N blood glucose monitoring system measures blood glucose quickly and accurately.",
+            "detial":"Manufacturer:i-SENS, Inc."
+        }
+    }
+}

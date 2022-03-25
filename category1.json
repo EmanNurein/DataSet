@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Medicine For Diabetes"
+    },
+    {
+        "id":2,
+        "name":"Medicine For Pressrures"
+    },
+    {
+        "id":3,
+        "name":"Medicine For Goiter"
+    },
+    {
+        "id":4,
+        "name":"Medicine For Asmath"
+    },
+    {
+        "id":5,
+        "name":"Medicine For Skins"
+    },
+    {
+        "id":6,
+        "name":"Medicine For Eyes"
+    },
+    {
+        "id":7,
+        "name":"Medicine for Gastro"
+    },
+    {
+        "id":8,
+        "name":"Devices"
+    }
+]

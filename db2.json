@@ -1,0 +1,59 @@
+
+
+[
+    {
+        "id":1,
+        "name":"Galvus Met 50mg/500mg",
+        "category_id":"1",
+        "img":"image url"
+    },
+
+    {
+        "id":2,
+        "name":"Norvasc(Amlodipine) 5mg",
+        "category_id":"2",
+        "img":"image url"
+    },
+
+    {
+        "id":3,
+        "name":"Euthyrox 25",
+        "category_id":"3",
+        "img":"image url"
+    },
+    
+    {
+        "id":4,
+        "name":"Ventolin Inhaler",
+        "category_id":"4",
+        "img":"image url"
+    },
+
+    {
+        "id":5,
+        "name":"Flucort Skin Cream 20mg",
+        "category_id":"5",
+        "img":"image url"
+    },
+
+    {
+        "id":6,
+        "name":"Can-C™ eye drops",
+        "category_id":"6",
+        "img":"image url"
+    },
+        
+    {
+        "id":7,
+        "name":"Nexium Control 20 mg",
+        "category_id":"7",
+        "img":"image url"
+    },
+                    
+    {
+        "id":8,
+        "name":"CareSens N blood glucose monitoring",
+        "category_id":"8",
+        "img":"image url"
+    }
+]
