@@ -9,19 +9,18 @@
     },
     {
         "pharmacy_id": 2,
-        "pharmacy_name": "Althalatheen Pharmacy",
+        "pharmacy_name": "Almek Nimer Pharmacy",
         "location_id": 1,
         "state_id": 1,
-        "address": "Almuhandseen-block 30",
+        "address": "Amarat - Street No 15",
         "contact_number": "0912312312"
     },
-
     {
         "pharmacy_id": 3,
-        "pharmacy_name": "Althalatheen Pharmacy",
+        "pharmacy_name": "Alhelale Pharmacy",
         "location_id": 1,
         "state_id": 1,
-        "address": "Almuhandseen-block 30",
+        "address": "Khartoum-Bahri , Aloasasa",
         "contact_number": "0912312312"
     }
 ]
