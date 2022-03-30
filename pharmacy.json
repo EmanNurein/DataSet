@@ -1,0 +1,27 @@
+[
+    {
+        "pharmacy_id": 1,
+        "pharmacy_name": "Althalatheen Pharmacy",
+        "location_id": 1,
+        "state_id": 1,
+        "address": "Almuhandseen-block 30",
+        "contact_number": "0912312312"
+    },
+    {
+        "pharmacy_id": 2,
+        "pharmacy_name": "Althalatheen Pharmacy",
+        "location_id": 1,
+        "state_id": 1,
+        "address": "Almuhandseen-block 30",
+        "contact_number": "0912312312"
+    },
+
+    {
+        "pharmacy_id": 3,
+        "pharmacy_name": "Althalatheen Pharmacy",
+        "location_id": 1,
+        "state_id": 1,
+        "address": "Almuhandseen-block 30",
+        "contact_number": "0912312312"
+    }
+]

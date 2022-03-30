@@ -1,0 +1,26 @@
+
+    [
+      {
+        "location_id": 1,
+        "location_name": "Almuhandseen-block 30",
+        "state_id": 1,
+        "state": "Omdurman",
+        "country_name": "Sudan"
+      },
+
+      {
+        "location_id": 2,
+        "location_name": "Amarat - Street No 15",
+        "state_id": 2,
+        "state": "Khartoum",
+        "country_name": "Sudan"
+      },
+      
+      {
+        "location_id": 3,
+        "location_name": "Khartoum-Bahri , Aloasasa",
+        "state_id": 3,
+        "state": "Khartoum -Bahri",
+        "country_name": "Sudan"
+      }
+    ]
