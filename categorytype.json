@@ -1,0 +1,59 @@
+
+    [
+        {
+            "category_id": 1,
+            "categorytype_name": "Diabetes Medicines",
+            "content":"Help to lower insulin levels or insulin therapy on your body",
+            "image":"https://i.ibb.co/R3ngpJZ/Galvus-Met-removebg-preview.png"
+        },
+
+        {
+            "category_id": 2,
+            "categorytype_name": "Pressure Medications",
+            "content":"Used to treat lower high blood pressure (HBP or hypertension)",
+            "image":"https://i.ibb.co/cX8brMw/norvasc1-removebg-preview.png"
+        },
+
+        {
+            "category_id": 3,
+            "categorytype_name": "Thyroid Medications",
+            "content":"Used to treat underactive thyroid (hypothyroidism) and other conditions.",
+            "image":"https://i.ibb.co/5LcGszn/euthyrox-25-removebg-preview.png"
+        },
+
+        {
+            "category_id": 4,
+            "categorytype_name": "Respiratory Medicines",
+            "content":"Treat and provide continuous care for adults of all ages with a wide range of respiratory and related conditions",
+            "image":"https://i.ibb.co/jHGLF27/ventolin-inhaler-removebg-preview.png"
+        },
+
+        {
+            "category_id": 5,
+            "categorytype_name": "Dermatology Medicines",
+            "content":"Applied directly on the skin to treat skin conditions.",
+            "image":"https://i.ibb.co/KL8sSHg/flucort-removebg-preview.png"
+
+        },
+
+        {
+            "category_id": 6,
+            "categorytype_name": "Eye Medicines",
+            "content":"The medicines in this section include those which act on the eyes, usually given as eye-drops or ointments",
+            "image":"https://i.ibb.co/pnyjrVh/E-ye-drop-removebg-preview.png"
+        },
+    
+        {
+            "category_id": 7,
+            "categorytype_name": "Gastrointestinal Drugs",
+            "content":"Used to treat people with heartburn, stomach or intestinal ulcers, or excess stomach acid.",
+            "image":"https://i.ibb.co/f1MQKSN/nexium-removebg-preview-1.png"
+        },
+        
+        {
+            "category_id": 8,
+            "categorytype_name": "Devices",
+            "content":"for example, device called a glucose meter or glucometer used to monitoring your blood sugar (blood glucose),is a vital part of diabetes manage",
+            "image":"https://i.ibb.co/Sy78C3J/caresens-removebg-preview.png"
+        }
+    ]
