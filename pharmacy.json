@@ -4,23 +4,104 @@
         "pharmacy_name": "Althalatheen Pharmacy",
         "location_id": 1,
         "state_id": 1,
+        "product_id":1,
         "address": "Almuhandseen-block 30",
-        "contact_number": "0912312312"
+        "pharmacy_image":"https://i.ibb.co/3s6mYmh/pharmacy1.jpg",
+        "contact_number": "0912312312",
+        "categoryTypes":[
+            {
+            "categorytype_id": 1,
+            "categorytype_name":"Diabetes Medicines"
+            },
+            {
+            "category_id": 3,
+            "categorytype_name":"Thyroid Medications"
+            },
+            {
+            "category_id": 8,
+            "categorytype_name": "Devices"
+            }
+        ]
     },
+
     {
         "pharmacy_id": 2,
         "pharmacy_name": "Almek Nimer Pharmacy",
-        "location_id": 1,
-        "state_id": 1,
+        "location_id": 2,
+        "state_id":2,
+        "product_id":6,
         "address": "Amarat - Street No 15",
-        "contact_number": "0912312312"
+        "pharmacy_image":"https://i.ibb.co/wJ1tPz2/service-cust.jpg",
+        "contact_number": "0912312312",
+        "categoryTypes":[
+            {
+            "category_id": 2,
+            "categorytype_name":"Pressure Medications"
+            },
+            {
+            "category_id": 4,
+            "categorytype_name":"Respiratory Medicines"
+            }
+        ]
     },
     {
         "pharmacy_id": 3,
         "pharmacy_name": "Alhelale Pharmacy",
-        "location_id": 1,
-        "state_id": 1,
+        "location_id": 3,
+        "state_id": 3,
+        "product_id":2,
         "address": "Khartoum-Bahri , Aloasasa",
-        "contact_number": "0912312312"
+        "pharmacy_image":"https://i.ibb.co/vsXTXZD/Pharmacist-Meds.jpg",
+        "contact_number": "0912312312",
+        "categoryTypes":[
+            {
+            "category_id": 3,
+            "categorytype_name":"Thyroid Medications"
+            },
+            {
+            "category_id": 5,
+            "categorytype_name":"Dermatology Medicines"
+            }
+        ]
+    },
+    {
+        "pharmacy_id": 4,
+        "pharmacy_name": "Ibtisam Pharmacy",
+        "location_id": 2,
+        "state_id": 1,
+        "product_id":1,
+        "address": "Khartoum-Bahri , Aloasasa",
+        "pharmacy_image":"https://i.ibb.co/K6PRqXD/pharm.jpg",
+        "contact_number": "0912312312",
+        "categoryTypes":[
+            {
+            "category_id": 6,
+            "categorytype_name":"Eye Medicines"
+            },
+            {
+            "category_id": 8,
+            "categorytype_name": "Devices"
+            }
+        ]
+    },
+    {
+        "pharmacy_id": 3,
+        "pharmacy_name": "Waad Pharmacy",
+        "location_id": 5,
+        "state_id": 1,
+        "product_id":4,
+        "address": "Khartoum-Bahri , Aloasasa",
+        "contact_number": "0912312312",
+        "pharmacy_image":"https://i.ibb.co/JpY3q4v/pharm1.jpg",
+        "categoryTypes":[
+            {
+            "category_id": 6,
+            "categorytype_name":"Eye Medicines"
+            },
+            {
+            "category_id": 7,
+            "categorytype_name":"Gastrointestinal Drugs"
+            }
+        ]
     }
 ]
